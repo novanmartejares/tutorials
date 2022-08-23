@@ -1,0 +1,22 @@
+body{
+    background-color: lightgrey;
+
+}
+h1{
+    font-size: 30px;
+    color:rgb(238, 81, 18);
+}
+h2{
+    font-size: 20px;
+    color:darkblue;
+}
+.head{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tail{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
